@@ -1,0 +1,3 @@
+deepspeech-models/*
+!deepspeech-models/README.md
+__pycache__/
